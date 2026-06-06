@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Receitas Culinárias</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Receitas Culinárias</h1>
+
+    <div class="container">
+
+        <div class="card">
+            <a href="lasanha.html">
+                <img src="lasanha.jpg" alt="Lasanha">
+                <h2>Lasanha</h2>
+            </a>
+        </div>
+
+        <div class="card">
+            <a href="brigadeiro.html">
+                <img src="brigadeiro.jpg" alt="Brigadeiro">
+                <h2>Brigadeiro</h2>
+            </a>
+        </div>
+
+        <div class="card">
+            <a href="panqueca.html">
+                <img src="panqueca.jpg" alt="Panqueca">
+                <h2>Panqueca</h2>
+            </a>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
